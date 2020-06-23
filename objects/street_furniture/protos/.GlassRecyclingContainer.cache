@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: 9eb8b74ad59e64d232a77a55f02518da
+containsDevices: 0
+baseType: Solid
+slotType: 
+parameters: translation,rotation,name
+tags: 
+license:  Creative Commons Attribution 4.0 International License.
+licenseUrl:  https://creativecommons.org/licenses/by/4.0/legalcode
+documentationUrl: https://cyberbotics.com/doc/guide/object-street-furniture
+info: A\sglass\srecycling\scontainer.\n

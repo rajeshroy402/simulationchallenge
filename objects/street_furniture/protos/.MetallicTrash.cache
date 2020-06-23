@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: 6042013984f631e4aa46ee0458a2198a
+containsDevices: 0
+baseType: Solid
+slotType: 
+parameters: translation,rotation,name,enablePhysics
+tags: static
+license:  Creative Commons Attribution 4.0 International License.
+licenseUrl:  https://creativecommons.org/licenses/by/4.0/legalcode
+documentationUrl: https://cyberbotics.com/doc/guide/object-street-furniture
+info: A\smetallic\strash\swith\soptional\sphysics.\n

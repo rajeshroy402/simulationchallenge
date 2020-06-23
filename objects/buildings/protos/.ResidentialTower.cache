@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: d32b262378e831271c41b910da2216d4
+containsDevices: 0
+baseType: Solid
+slotType: 
+parameters: translation,rotation,name,numberOfFloors,enableBoundingObject
+tags: static
+license:  Creative Commons Attribution 4.0 International License.
+licenseUrl:  https://creativecommons.org/licenses/by/4.0/legalcode
+documentationUrl: https://cyberbotics.com/doc/guide/object-buildings
+info: A\sresidential\stower\swith\svariable\snumber\sof\sfloor\sand\soptional\sboundingObject.\n

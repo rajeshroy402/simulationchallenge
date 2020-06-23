@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: a8732962f5a7329466cbd4e8de622d11
+containsDevices: 0
+baseType: Solid
+slotType: 
+parameters: translation,rotation,name,mainColor
+tags: 
+license:  Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+licenseUrl:  https://cyberbotics.com/webots_assets_license
+documentationUrl: https://cyberbotics.com/doc/guide/object-kitchen
+info: A\sfridge\swith\s2\sdoors\s(0.7\sx\s1.8\sx\s0.7\sm).\n

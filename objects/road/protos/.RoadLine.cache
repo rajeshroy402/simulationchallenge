@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: 2993784c89f7e7dc927411a6d25b2a0e
+containsDevices: 0
+baseType: Group
+slotType: 
+parameters: color,type,width
+tags: 
+license:  Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+licenseUrl:  https://cyberbotics.com/webots_assets_license
+documentationUrl: https://cyberbotics.com/doc/guide/object-road
+info: Defines\sthe\sproperties\sof\sa\sroad\sline.\nThis\snode\sshould\sbe\sused\sin\sthe\s`lines`\sfield\sof\sa\sroad\snode.\n

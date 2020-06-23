@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: c0f8772fcd8e989bad7795e21a03adb6
+containsDevices: 0
+baseType: IndexedFaceSet
+slotType: 
+parameters: crossSection,spine,scale,orientation,beginCap,endCap,ccw,solid,convex,creaseAngle,splineSubdivision
+tags: static
+license:  Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+licenseUrl:  https://cyberbotics.com/webots_assets_license
+documentationUrl: https://cyberbotics.com/doc/guide/object-geometries
+info: Generic\sextrusion\sgeometry.\nThe\sshape\s(defined\sby\sthe\s'crossSection'\sfield)\sis\sextruded\salong\sthe\spath\sdefined\sby\sthe\sfield\s'spine'.\n

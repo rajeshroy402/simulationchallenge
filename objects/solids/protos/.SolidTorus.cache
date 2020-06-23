@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: 7b6ce2b3331b45c612ca060a4fbf364f
+containsDevices: 0
+baseType: Solid
+slotType: 
+parameters: translation,rotation,name,majorRadius,minorRadius,subdivision,contactMaterial,appearance,physics,enableBoundingObject
+tags: static
+license:  Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+licenseUrl:  https://cyberbotics.com/webots_assets_license
+documentationUrl: https://cyberbotics.com/doc/guide/object-solids
+info: A\storus\sobject\simplemented\sat\sthe\sSolid-node\slevel.\nGraphically,\sthe\sSolidTorus\sis\sdefined\sas\san\sIndexedFaceSet.\nPhysically,\sthe\sSolidTorus\sis\sdefined\sas\sa\sset\sof\sN\sspheres,\swhere\sN\sis\sthe\ssubdivision\sfield.\n

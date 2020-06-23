@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: f650375fd8ae0d9ff9ed8f627edab5a2
+containsDevices: 0
+baseType: Solid
+slotType: 
+parameters: translation,rotation,name,color
+tags: 
+license:  Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+licenseUrl:  https://cyberbotics.com/webots_assets_license
+documentationUrl: https://cyberbotics.com/doc/guide/object-kitchen
+info: A\sfork.\n

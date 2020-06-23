@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: 2c96f2cb7685a67bac4cbe9b06b02ae9
+containsDevices: 0
+baseType: IndexedFaceSet
+slotType: 
+parameters: size,doubleSided
+tags: static
+license:  Apache License 2.0
+licenseUrl:  http://www.apache.org/licenses/LICENSE-2.0
+documentationUrl: https://cyberbotics.com/doc/guide/object-geometries
+info: Single/double\ssided\sand\sadjustable\srectangle\sshape.\n

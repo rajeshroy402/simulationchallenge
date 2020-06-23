@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: d1cdf17a0ab8a6690970d171f9b14480
+containsDevices: 0
+baseType: Solid
+slotType: 
+parameters: translation,rotation,name,legColor,seatColor,mass
+tags: 
+license:  Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+licenseUrl:  https://cyberbotics.com/webots_assets_license
+documentationUrl: https://cyberbotics.com/doc/guide/object-chairs
+info: A\ssimple\stwo-colors\schair\swith\sa\scustomizable\smass,\sbut\sa\sfixed\sheight\sof\s1.25\smeter.\nThis\sobject\sis\sphysics-enabled\sso\sit\scan\sbe\spushed.\n

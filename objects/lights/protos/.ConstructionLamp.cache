@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: dbf579fa4542bade5e811471c5924396
+containsDevices: 0
+baseType: Solid
+slotType: 
+parameters: translation,rotation,name,supportAppearance,spotLightColor,spotLightIntensity,spotLightRadius,spotLightCastShadows
+tags: static
+license:  Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+licenseUrl:  https://cyberbotics.com/webots_assets_license
+documentationUrl: https://cyberbotics.com/doc/guide/object-lights
+info: A\sconstruction\slamp.\n

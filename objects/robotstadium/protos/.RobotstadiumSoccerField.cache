@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: be25ae4e69dba74b291b45dbcab15d01
+containsDevices: 0
+baseType: Solid
+slotType: 
+parameters: translation,rotation,name,contactMaterial,frame1Color,frame2Color,postRadius
+tags: 
+license:  Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+licenseUrl:  https://cyberbotics.com/webots_assets_license
+documentationUrl: https://cyberbotics.com/doc/guide/object-robotstadium
+info: Robot\ssoccer\sfield\sinspired\sfrom\sthe\sRoboCup\s2014\sStandard\sPlatform\sLeague.\nThe\ssoccer\sfield\sis\sbuilt\son\sa\stotal\scarpet\sarea\sof\slength\s10.4\sm\sand\swidth\s7.4\sm.\nThe\sfield\sdimensions\s(within\sthe\swhite\slines)\sare\s9\sx\s6\sm.\n

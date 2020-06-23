@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: ccbb1ab0c78b671d9c2e4d55d7879ff0
+containsDevices: 0
+baseType: Solid
+slotType: 
+parameters: translation,rotation
+tags: 
+license:  MIT
+licenseUrl:  https://opensource.org/licenses/MIT
+documentationUrl: https://cyberbotics.com/doc/guide/object-telephone
+info: A\smodel\sof\sa\stelephone,\ssourced\sfrom\sthe\sGLTF\sPBR\sreference\simplementation,\sfound\sat\shttps://github.com/KhronosGroup/glTF-WebGL-PBR.\n

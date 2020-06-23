@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: 535dc2eeee5547faf9598c6404100c1f
+containsDevices: 0
+baseType: Solid
+slotType: 
+parameters: translation,rotation,name,enableBoundingObject
+tags: static
+license:  Creative Commons Attribution 4.0 International License.
+licenseUrl:  https://creativecommons.org/licenses/by/4.0/legalcode
+documentationUrl: https://cyberbotics.com/doc/guide/object-trees
+info: A\soak\stree\swith\soptional\sboundingObject.\n

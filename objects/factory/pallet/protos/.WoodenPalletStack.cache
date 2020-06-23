@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: 9259a6a42cd604af14461dff1dc4c19b
+containsDevices: 0
+baseType: Solid
+slotType: 
+parameters: translation,rotation,name,palletNumber,palletSize,palletLathNumber,palletLathWidth,lateralMisalignment,longitudinalMisalignment,palletMass,boundingObject,locked
+tags: 
+license:  Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+licenseUrl:  https://cyberbotics.com/webots_assets_license
+documentationUrl: https://cyberbotics.com/doc/guide/object-factory
+info: Simple\sand\sconfigurable\swooden\spallet\sstack.\n

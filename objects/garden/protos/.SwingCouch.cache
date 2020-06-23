@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: c51e045e45dab469da974c2c0b245bf1
+containsDevices: 0
+baseType: Solid
+slotType: 
+parameters: translation,rotation,name
+tags: 
+license:  Creative Commons Attribution 4.0 International License.
+licenseUrl:  https://creativecommons.org/licenses/by/4.0/legalcode
+documentationUrl: https://cyberbotics.com/doc/guide/object-garden
+info: A\sswing\scouch.\n

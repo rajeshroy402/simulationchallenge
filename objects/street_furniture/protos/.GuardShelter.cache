@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: 9f84eaa58e6fea19394ebf7647dcdb54
+containsDevices: 0
+baseType: Solid
+slotType: 
+parameters: translation,rotation,name
+tags: 
+license:  Creative Commons Attribution 4.0 International License.
+licenseUrl:  https://creativecommons.org/licenses/by/4.0/legalcode
+documentationUrl: https://cyberbotics.com/doc/guide/object-street-furniture
+info: A\sguard\sshelter.\n

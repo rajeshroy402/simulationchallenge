@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: 36e3526477293e64eda26ad0e9fb88de
+containsDevices: 0
+baseType: Solid
+slotType: 
+parameters: translation,rotation,name
+tags: 
+license:  Creative Commons Attribution 4.0 International License.
+licenseUrl:  https://creativecommons.org/licenses/by/4.0/legalcode
+documentationUrl: https://cyberbotics.com/doc/guide/object-garden
+info: A\sswing.\n

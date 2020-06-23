@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: e8236c5cc2c8d04755ebc812d2b97f71
+containsDevices: 0
+baseType: PBRAppearance
+slotType: 
+parameters: colorOverride
+tags: 
+license:  Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+licenseUrl:  https://cyberbotics.com/webots_assets_license
+documentationUrl: https://cyberbotics.com/doc/guide/object-apartment-structure
+info: A\sgeneric\svarnished,\spainted\swooden\sdoor's\sappearance.\n

@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: 3098d005c3f6dd7b8fb200e3aeab47d2
+containsDevices: 0
+baseType: Solid
+slotType: 
+parameters: translation,rotation,name
+tags: 
+license:  Creative Commons Attribution 4.0 International License.
+licenseUrl:  https://creativecommons.org/licenses/by/4.0/legalcode
+documentationUrl: https://cyberbotics.com/doc/guide/object-street-furniture
+info: A\sfountain\smade\sof\sstones.\n

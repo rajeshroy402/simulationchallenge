@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: bb1490c4c6a8606c1083d86ba8b33edc
+containsDevices: 0
+baseType: Solid
+slotType: 
+parameters: translation,rotation,name,enableBoundingObject
+tags: static
+license:  Creative Commons Attribution 4.0 International License.
+licenseUrl:  https://creativecommons.org/licenses/by/4.0/legalcode
+documentationUrl: https://cyberbotics.com/doc/guide/object-street-furniture
+info: An\surban\sfence\swith\soptional\sboundingObject.\n

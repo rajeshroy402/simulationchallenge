@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: 7327f99cf6c9b8847d7afed63d67a6ba
+containsDevices: 0
+baseType: Transform
+slotType: 
+parameters: translation
+tags: hidden
+license:  Creative Commons Attribution 4.0 International License.
+licenseUrl:  https://creativecommons.org/licenses/by/4.0/legalcode
+documentationUrl: https://cyberbotics.com/doc/guide/object-buildings
+info: 
